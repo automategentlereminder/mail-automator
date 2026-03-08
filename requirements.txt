@@ -1,0 +1,5 @@
+PySide6
+PyQt6-Fluent-Widgets
+pywin32
+openpyxl
+pandas
