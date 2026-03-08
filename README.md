@@ -1,7 +1,7 @@
 <h1 align="center">Gentle Reminder - Smart Automated Mailer</h1>
 
 <p align="center">
-  <strong>A Powerful, Desktop-based Cold Emailing Engine with Humanized Sending and Spintax AI</strong>
+  <strong>A Powerful, Desktop-based Cold Emailing Engine with Humanized Sending and Spintax</strong>
 </p>
 
 <p align="center">
