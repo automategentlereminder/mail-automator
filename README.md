@@ -4,6 +4,12 @@
   <strong>A Powerful, Desktop-based Cold Emailing Engine with Humanized Sending and Spintax AI</strong>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1ug5-0RRzf0qnXCl97m5jPbbEckME3VpK?usp=sharing">
+    <strong>🚀 Download Portable EXE (v1.0)</strong>
+  </a>
+</p>
+
 ## Overview
 
 Gentle Reminder is a beautiful, locally-hosted desktop application designed for small businesses and founders to manage their outbound email campaigns effectively. It completely removes the need for expensive SAAS subscriptions by connecting directly to your local Outlook client via Windows COM objects (`pywin32`) to send mail exactly as a human would.
